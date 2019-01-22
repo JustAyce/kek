@@ -73,10 +73,6 @@
                         "text" : "1 min",
                         "value" : 15
                      },
-                     "end_location" : {
-                        "lat" : 1.3398079,
-                        "lng" : 103.8616127
-                     },
                      "html_instructions" : "",
                      "maneuver" : "fork-right",
                      "start_location" : {
@@ -114,10 +110,6 @@
                      "maneuver" : "ramp-left",
                      "polyline" : {
                         "points" : ""
-                     },
-                     "start_location" : {
-                        "lat" : 1.3525431,
-                        "lng" : 103.8571176
                      },
                      "travel_mode" : "DRIVING"
                   },
