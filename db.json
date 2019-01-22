@@ -3,18 +3,9 @@
    ],
    "routes" : [
       {
-        
-         },
-         "copyrights" : "Map data ©2019 Google",
+       
          "legs" : [
             {
-               
-               },
-               "start_address" : "Paya Lebar Rd, Singapore",
-               "start_location" : {
-                  "lat" : 1.3243504,
-                  "lng" : 103.8907773
-               },
                "steps" : [
                   {
                      "distance" : {
