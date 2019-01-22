@@ -139,10 +139,6 @@
                         "text" : "1 min",
                         "value" : 86
                      },
-                     "end_location" : {
-                        "lat" : 1.3539078,
-                        "lng" : 103.8485954
-                     },
                      "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBishan Rd\u003c/b\u003e",
                      "maneuver" : "turn-left",
                      "polyline" : {
@@ -163,18 +159,10 @@
                         "text" : "1 min",
                         "value" : 24
                      },
-                     "end_location" : {
-                        "lat" : 1.3533254,
-                        "lng" : 103.8497727
-                     },
                      "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBishan Street 14\u003c/b\u003e",
                      "maneuver" : "turn-left",
                      "polyline" : {
                         "points" : "}lgGw|yxRJ?BAJ?D?D?BABANQFe@^{BJo@"
-                     },
-                     "start_location" : {
-                        "lat" : 1.3539078,
-                        "lng" : 103.8485954
                      },
                      "travel_mode" : "DRIVING"
                   },
@@ -195,10 +183,6 @@
                      "maneuver" : "turn-right",
                      "polyline" : {
                         "points" : "iigGadzxRPBtKzAJ@"
-                     },
-                     "start_location" : {
-                        "lat" : 1.3533254,
-                        "lng" : 103.8497727
                      },
                      "travel_mode" : "DRIVING"
                   }
